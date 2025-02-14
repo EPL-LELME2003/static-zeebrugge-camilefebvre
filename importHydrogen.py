@@ -1,5 +1,6 @@
 #Camille Lefebvre
 import pyomo.environ as pyo
+print("Hello world")
 
 # Create a Pyomo model
 model = pyo.ConcreteModel()
